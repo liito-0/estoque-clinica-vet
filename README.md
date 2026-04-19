@@ -1,4 +1,4 @@
-# Sistema de Gerenciamento de Estoque - Clínica Veterinária
+# Padrões de Arquitetura
 
 Projeto desenvolvido como parte da atividade **[ATV 6] - Padrões de Projeto** da cadeira de Engenharia de Software. O objetivo é demonstrar a aplicação prática de padrões de arquitetura (ex.: em um sistema de controle de insumos e medicamentos veterinários.)
 
