@@ -1,10 +1,10 @@
-# 🐾 Sistema de Gerenciamento de Estoque - Clínica Veterinária
+# Sistema de Gerenciamento de Estoque - Clínica Veterinária
 
-Este projeto foi desenvolvido como parte da atividade **[ATV 6] - Padrões de Projeto** da cadeira de Engenharia de Software. O objetivo é demonstrar a aplicação prática de padrões de arquitetura em um sistema de controle de insumos e medicamentos veterinários.
+Projeto desenvolvido como parte da atividade **[ATV 6] - Padrões de Projeto** da cadeira de Engenharia de Software. O objetivo é demonstrar a aplicação prática de padrões de arquitetura em um sistema de controle de insumos e medicamentos veterinários.
 
-## 🏗️ Arquitetura e Padrões Utilizados
+## Arquitetura e Padrões Utilizados
 
-Para garantir um sistema modular, fácil de testar e manter, foram aplicados três padrões principais:
+foram aplicados três padrões principais:
 
 ### 1. MVC (Model-View-Controller)
 O sistema separa a interface do usuário da lógica de processamento:
